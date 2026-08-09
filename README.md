@@ -37,12 +37,14 @@ The project uses Python's socket library to attempt connections to ports and ide
 ## How to Run
 
 ### 1. Install Python
+
 Make sure Python 3 is installed on your system.
 
 ### 2. Run the Program
 
 ```bash
 python port_scanner.py
+```
 
 ### 3. Enter an Authorized Target
 
@@ -50,6 +52,8 @@ For local testing, use:
 
 ```text
 127.0.0.1
+```
+
 ## Sample Result
 
 ```text
@@ -59,6 +63,8 @@ Target: 127.0.0.1
 IP Address: 127.0.0.1
 
 Scan completed.
+```
+
 ## Screenshots
 
 ### Port Scan Result
